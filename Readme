@@ -1,0 +1,19 @@
+g.- ¿Qué son setters y getters? Explique con un ejemplo en código.
+Los setters y getters son métodos utilizados en la programación orientada a objetos para establecer (set) y obtener (get) los valores de los atributos de un objeto. Permiten controlar el acceso a los datos de un objeto y aplicar lógica adicional al proceso de asignación y obtención de valores.
+Por ejemplo, en JavaScript, se pueden usar setters y getters para controlar el acceso a los atributos de un objeto, como en el siguiente código:
+
+h.- Indique una secuencia de comandos en git que permitan clonar un repositorio, traer los últimos cambios y una vez realizados los cambios, actualizar los cambios.
+- Git clone 
+- Git Pull
+- Git Push 
+
+i.- ¿Para qué se utiliza "try y catch" en java? Explique con un ejemplo en código.
+En JavaScript, el uso de try y catch se utiliza para manejar fragmentos de código que son propensos a fallar, como la recepción de un valor nulo, la conversión de un tipo de dato a otro, o la lectura de un archivo. 
+El bloque try permite ejecutar un código y detectar si se produce una excepción, mientras que el bloque catch permite manejar la excepción si ocurre, evitando que el programa se detenga. Un ejemplo de cómo se utiliza try y catch en JavaScript:
+
+j.- Defina Programación Orientada a Objetos y el concepto de constructores. Muestre un ejemplo de los tipos de constructores que puede haber.
+La programación orientada a objetos es un paradigma de programación que se basa en el concepto de "objetos", los cuales son entidades que combinan datos y comportamientos.
+En POO, los objetos son instancias de clases, las cuales actúan como plantillas para la creación de objetos con características y comportamientos específicos.
+Un constructor en programación orientada a objetos es un método especial que se utiliza para crear objetos y establecer sus propiedades iniciales. Es una función que se invoca automáticamente al crear un nuevo objeto a partir de una clase. 
+Los constructores permiten inicializar los atributos de un objeto y realizar cualquier otra configuración necesaria al momento de su creación.
+
